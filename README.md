@@ -6,10 +6,8 @@
 
 ## Description
 
-- Remake of the javaScript digital clock project with React
+-The React Digital Clock App is a responsive and real-time application that displays the current time based on the user's local timezone. Built with React, this app showcases a sleek, modern interface that updates every second to provide an accurate display of hours, minutes, and seconds. The app also includes an AM/PM indicator for clarity. It’s designed with simplicity and functionality in mind, making it an excellent example of how React can be used to create dynamic, real-time applications. Perfect for those looking to learn about state management, component rendering, and the useEffect hook in React.
 
-## Project Link
-#### You can reach my project from [here](https://react-digital-clock-date.netlify.app/) 👈
 
 ## Project Skeleton
 
@@ -44,13 +42,5 @@ SOLUTION
 - ReactJS
 
 ```
-$ git clone https://github.com/esadakman/reactjs-digital-clock.git
-$ cd ../react-digital-clock
-$ npm install / yarn
-$ npm start / yarn start
-```
 
-### Preview of the Project
-
-![digital_clock](https://user-images.githubusercontent.com/98649983/174446111-dca936ed-dc73-41e8-a327-aca310e32509.gif)
 
